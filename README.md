@@ -65,7 +65,3 @@ Feel free to connect on LinkedIn or explore my other smart contract work on GitH
 #Solidity #DAO #SmartContracts #Governance #Web3 #Ethereum #BlockchainDeveloper #OpenSource #EVM #CryptoDev #VotingProtocol #dApp #BuildInPublic
 
 
----
-
-Let me know if you'd like to add unit tests, diagrams, badges, or deployment addresses to the README!
-
