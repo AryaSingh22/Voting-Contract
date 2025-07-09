@@ -19,7 +19,6 @@ This contract enables verified members to create proposals and vote on them. Onc
 
 ## 🧱 Contract Overview
 
-```solidity
 constructor(address[] memory _members)
 
 
